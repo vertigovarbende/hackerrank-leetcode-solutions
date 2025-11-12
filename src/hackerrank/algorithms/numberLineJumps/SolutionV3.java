@@ -1,6 +1,6 @@
 package hackerrank.algorithms.numberLineJumps;
 
-public class SolutionV2 {
+public class SolutionV3 {
 
     public static String kangaroo(int x1, int v1, int x2, int v2) {
         // if x2 > x1 then v1 > v2
